@@ -12,11 +12,3 @@ A simple and interactive web app to track and visualize your daily expenses. Bui
 - Visualizes total spending per category with bar charts.
 - User-friendly UI powered by Streamlit.
 
----
-
-## 🛠️ Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Gani2324/Expence_Tracker.git
-   cd Expence_Tracker
