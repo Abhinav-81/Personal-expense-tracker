@@ -4,11 +4,12 @@ A simple and interactive web app to track and visualize your daily expenses. Bui
 
 ---
 
-## 🚀 Features
+ Features of expence tracker
 
 - Add daily expenses with category, date, and amount.
 - Automatically stores your data in a local CSV file.
 - Displays historical expense records in a table.
 - Visualizes total spending per category with bar charts.
 - User-friendly UI powered by Streamlit.
+
 
